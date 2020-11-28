@@ -1,0 +1,18 @@
+{
+  "name": "itshouldbefun",
+  "version": "1.0.0",
+  "description": "Bytex - It should be fun",
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "code-surfer": "^3.1.1",
+    "mdx-code": "^2.0.0",
+    "mdx-deck": "^1.7.4",
+    "mdx-deck-code-surfer": "^0.4.1",
+    "raw-loader": "^0.5.1",
+    "theme-ui": "^0.3.1"
+  }
+}
